@@ -9,20 +9,14 @@ export const metadata: Metadata = {
     default: "usmvveos",
     template: "%s | usmvveos.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "usmvveos ",
   openGraph: {
-    title: "usmvveos.com",
+    title: "Instadev hub",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
-    images: [
-      {
-        url: "https://chronark.com/og.png",
-        width: 1920,
-        height: 1080,
-      },
-    ],
+      "Amaali Oussama | usmvveos ",
+    url: "https://usmvveos.vercel.app/",
+    siteName: "usmvveos.vercel.app",
+  
     locale: "en-US",
     type: "website",
   },
